@@ -1,36 +1,4 @@
 {
-		"id":1,
-		"name": "Akash Saha"
-	},
-	{
-		"id":2,
-		"name": "Atir Petkar"
-	},
-	{
-		"id":3,
-		"name": "Aishwarya Desai"
-	},
-	{
-		"id":4,
-		"name": "Aditya Murthy"
-	},
-	{
-		"id":4,
-		"name": "Joel Lobo"
-	},
-	{
-		"id":5,
-		"name": "Kerica Coutinho"
-	},
-	{
-		"id":6,
-		"name": "Parth Contractor"
-	},
-	{
-		"id":7,
-		"name": "Urvashi Jaswani"
-	},
-	{
-		"id":8,
-		"name": "Meera Seshadri"
-	}
+"id":1,
+"name": "Akash Saha"
+}

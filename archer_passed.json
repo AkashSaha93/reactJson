@@ -1,38 +1,38 @@
 [
 	{
-		"id":1,
-		"name": "Akash Saha"
+		"Id":1,
+		"Name": "Akash Saha"
 	},
 	{
-		"id":2,
-		"name": "Atir Petkar"
+		"Id":2,
+		"Name": "Atir Petkar"
 	},
 	{
-		"id":3,
-		"name": "Aishwarya Desai"
+		"Id":3,
+		"Name": "Aishwarya Desai"
 	},
 	{
-		"id":4,
-		"name": "Aditya Murthy"
+		"Id":4,
+		"Name": "Aditya Murthy"
 	},
 	{
-		"id":4,
-		"name": "Joel Lobo"
+		"Id":4,
+		"Name": "Joel Lobo"
 	},
 	{
-		"id":5,
-		"name": "Kerica Coutinho"
+		"Id":5,
+		"Name": "Jerica Coutinho"
 	},
 	{
-		"id":6,
-		"name": "Parth Contractor"
+		"Id":6,
+		"Name": "Parth Contractor"
 	},
 	{
-		"id":7,
-		"name": "Urvashi Jaswani"
+		"Id":7,
+		"Name": "Urvashi Jaswani"
 	},
 	{
-		"id":8,
-		"name": "Meera Seshadri"
+		"Id":8,
+		"Name": "Meera Seshadri"
 	}
 ]
